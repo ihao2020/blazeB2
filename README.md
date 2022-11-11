@@ -97,4 +97,4 @@
 
 **[Apache License 2.0](https://github.com/Rr210/blazeB2/blob/master/LICENSE)** 
 
-Copyright © 2022-Present blazeB2
+Copyright © 2022-Present blazeB2 
